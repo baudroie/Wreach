@@ -189,7 +189,7 @@ img{max-width:100%;height:auto;display:block}
   display:grid; gap:18px;
   grid-template-columns:1fr;
   align-items:center;
-  margin-bottom:18px;
+  margin-bottom:25px;
 }
 .case--reverse{direction:rtl}
 .case--reverse .case__body{direction:ltr}
